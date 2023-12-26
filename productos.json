@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "producto 1",
+    "description": "nueva descripción",
+    "price": 500,
+    "thumbnail": "nueva_imagen.png",
+    "code": "bcd126",
+    "stock": 8
+  }
+  
+]
